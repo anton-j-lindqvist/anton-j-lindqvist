@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Anton! 👋
 
+I am a web developer currently finishing my Bachelors degree in Web Development from Karlstad University.
+
+- 💻 Tech Stack: JavaScript (React, Alpine.js, node.js), PHP (Laravel, Livewire, Filament), HTML/CSS (Tailwind), Java, C, C#.NET
+- 🛠️ Tools: Git, Agile workflows, TALL-stack.
+- 📫 Reach me at: anton.j.lindqvist@gmail.com or connect with me on <a href="www.linkedin.com/in/anton-lindqvist-6957a1339">LinkedIn</a>.
 <!--
 **anton-j-lindqvist/anton-j-lindqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
