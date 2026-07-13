@@ -1,6 +1,6 @@
 ## Hi there, I'm Anton! 👋
 
-I am a web developer currently finishing my Bachelors degree in Web Development from Karlstad University.
+I am a web developer with a Bachelors degree in Web Development from Karlstad University.
 
 - 💻 Tech Stack: JavaScript (React, Alpine.js, node.js), PHP (Laravel, Livewire, Filament), HTML/CSS (Tailwind), Java, C, C#.NET.
 - 🗃️ Databases: MySQL, MariaDB, MongoDB.
